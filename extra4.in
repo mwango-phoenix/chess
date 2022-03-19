@@ -1,0 +1,7 @@
+game computer[3] computer[6]
+reset
+game computer[6] computer[3]
+reset
+game computer[3] computer[6]
+reset
+game computer[6] computer[3]

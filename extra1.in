@@ -1,0 +1,19 @@
+setup
+clear
++ K e1
++ R h1
++ P e5
++ k e8
++ r a8
++ p d5
+@ d6
+# white short
+# black long
+done
+game human human
+move e5 d6
+move e8 c8
+move e1 g1
+resign
+setup
+reset

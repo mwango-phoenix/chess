@@ -1,0 +1,32 @@
+setup
+clear
++ K g1
++ R a1
++ R f1
++ P g3
++ P h2
++ k e8
++ r e1
++ b a8
++ b b6
+done
+game human human
+setup
+clear
++ K e1
++ Q h1
++ R a8
++ N f7
++ P g6
++ k h8
++ b g8
++ n h6
++ p g7
+= black
+done
+game human human
+setup
+- f7
+= black
+done
+game human human

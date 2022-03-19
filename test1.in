@@ -1,0 +1,21 @@
+setup
++ R a8
++ N b8
++ B c8
++ Q d8
++ K e8
+- f8
+- g8
+- h8
+done
+- e8
+done
++ k e8
+done
+= black
++ P h8
+done
++ p h8
+done
+- h8
+done

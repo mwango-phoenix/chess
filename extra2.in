@@ -1,0 +1,25 @@
+setup
+clear
++ K e1
++ k e8
+done
+game human human
+setup
++ B e4
+done
+game human human
+setup
++ N e4
+done
+game human human
+setup
++ P e4
+done
+game human human
+resign
+setup
++ B e4
++ n d5
+done
+game human human
+resign
